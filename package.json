@@ -1,0 +1,28 @@
+{
+  "name": "rework-classmap",
+  "version": "0.0.0",
+  "description": "Rework CSS transform to eliminate unused class rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec ./specs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "andreypopp/rework-classmap"
+  },
+  "keywords": [
+    "rework",
+    "css",
+    "xcss",
+    "dead-code-elimination"
+  ],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "semver": "~2.2.1",
+    "mocha": "~1.14.0",
+    "jshint": "~2.3.0",
+    "rework": "~0.18.3"
+  }
+}
