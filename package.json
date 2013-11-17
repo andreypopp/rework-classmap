@@ -1,6 +1,6 @@
 {
   "name": "rework-classmap",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Rework CSS transform to eliminate unused class rules",
   "main": "index.js",
   "scripts": {
