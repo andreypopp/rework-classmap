@@ -10,6 +10,8 @@
     "process": false,
     "module": false,
     "exports": false,
-    "console": false
+    "console": false,
+    "it": false,
+    "describe": false
   }
 }
